@@ -116,7 +116,7 @@ auto = 1 for auto fans (NEW UPDATE: They removed auto fans for now)
 auto = 2 for auto views
 auto = 3 for auto hearts (NEW UPDATE: They removed auto hearts for now)
 """
-auto = 3
+auto = 2
 
 if auto == 1:
     driver.get("https://homedecoratione.com/")
